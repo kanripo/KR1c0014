@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩總聞
-#+DATE: 2015-09-23 09:36:35
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:39.998694
+#+PROPERTY: ID KR1c0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一上
 <pb:KR1c0014_WYG_001-1a>¶
 欽定四庫全書¶
 　詩總聞卷一上¶
@@ -71,6 +73,7 @@
 有專陽而能成聲者也不知古之造音何得度越智力¶
 之表如此非天孰能啟之非聖孰能作之宜乎繼者之¶
 難也¶
+#+PROPERTY: JUAN 卷一
 <pb:KR1c0014_WYG_001-5a>¶
 欽定四庫全書¶
 　詩總聞卷一¶
@@ -665,4 +668,3 @@
 　¶
 　¶
 　詩總聞卷一¶
-
